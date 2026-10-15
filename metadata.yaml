@@ -1,0 +1,6 @@
+name: astrbot_plugin_gemini_policy_retry
+display_name: Gemini 政策拦截自动重试
+desc: 当模型输出触发 Gemini 平台政策或内容安全拦截时，自动在用户消息后追加一条不落盘的临时合规提示并自动重试 1 次。
+version: v1.1.0
+author: codebuddy
+repo: ""
